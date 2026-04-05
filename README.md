@@ -38,6 +38,8 @@ design from IKEA's early 90s catalogues, and explore art on [cosmos.so](https://
 that calculates how much each person owes after splitting a restaurant bill
 with tip. Demonstrates functions, formatted output, and clean code structure.
 
+**[Caesar Cipher](https://github.com/harshwardhanfromIndia/caesar-cipher)** — A Python implementation of one of history's oldest encryption techniques. Encrypts and decrypts any text using a letter-shift algorithm, preserving spaces and punctuation. Demonstrates string manipulation, translation tables, and input validation.
+
 > More projects coming as I keep learning.
 
 ---
