@@ -40,6 +40,8 @@ with tip. Demonstrates functions, formatted output, and clean code structure.
 
 **[Caesar Cipher](https://github.com/harshwardhanfromIndia/caesar-cipher)** — A Python implementation of one of history's oldest encryption techniques. Encrypts and decrypts any text using a letter-shift algorithm, preserving spaces and punctuation. Demonstrates string manipulation, translation tables, and input validation.
 
+**[Movie Ticket Price Calculator](https://github.com/harshwardhanfromIndia/movie-ticket-calculator)** — A Python CLI tool that calculates movie ticket prices based on age, seat type, show time, membership, and weekend pricing. Demonstrates conditionals, dictionaries, and clean function design.
+
 > More projects coming as I keep learning.
 
 ---
