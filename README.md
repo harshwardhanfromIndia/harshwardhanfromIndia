@@ -42,6 +42,8 @@ with tip. Demonstrates functions, formatted output, and clean code structure.
 
 **[Movie Ticket Price Calculator](https://github.com/harshwardhanfromIndia/movie-ticket)** — A Python CLI tool that calculates movie ticket prices based on age, seat type, show time, membership, and weekend pricing. Demonstrates conditionals, dictionaries, and clean function design.
 
+**[CS Concepts Cheatsheet](https://harshwardhanfromIndia.github.io/cs-concepts-cheatsheet)** — A dark-themed webpage explaining six core CS concepts with visual diagrams. Built with pure HTML and CSS — no frameworks.
+
 > More projects coming as I keep learning.
 
 ---
