@@ -1,73 +1,55 @@
-# Hi, I'm Harshwardhan Kumar Paswan 👋
-
-1st year Computer Science Engineering student · India · Aspiring Software Engineer
+# Hi, I'm Harshwardhan 👋
+🇮🇳 India &nbsp;·&nbsp; 🎓 Student &nbsp;·&nbsp; Gritty!
 
 ---
 
 ## About me
-
-I'm at the beginning of my CS journey, currently learning Python and HTML
-while building small projects that actually solve real problems. My long-term
-goal is to work at Google or Microsoft — and I know that starts with building
-strong fundamentals and meaningful work, one project at a time.
-
-Outside of code, I read articles on history and philosophy, study furniture
-design from IKEA's early 90s catalogues, and explore art on [cosmos.so](https://cosmos.so).
+Hi, I'm Harshwardhan Kumar Paswan — a student from India who started with the basics and isn't planning to stop anytime soon. Currently learning web development one language at a time, with a lot more still on the list.
 
 ---
 
 ## Currently learning
-
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Tools & setup
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Big Dreams, Busy Folders
 
-**[Bill Splitter](https://github.com/harshwardhanfromIndia/bill-splitter)** — Python CLI tool
-that calculates how much each person owes after splitting a restaurant bill
-with tip. Demonstrates functions, formatted output, and clean code structure.
+**[CS Concepts Cheatsheet](https://harshwardhanfromIndia.github.io/cs-concepts-cheatsheet)**
+A dark-themed webpage explaining six core CS concepts with visual diagrams. Built with pure HTML and CSS — no frameworks.
 
-**[Caesar Cipher](https://github.com/harshwardhanfromIndia/caesar-cipher)** — A Python implementation of one of history's oldest encryption techniques. Encrypts and decrypts any text using a letter-shift algorithm, preserving spaces and punctuation. Demonstrates string manipulation, translation tables, and input validation.
-
-**[Movie Ticket Price Calculator](https://github.com/harshwardhanfromIndia/movie-ticket)** — A Python CLI tool that calculates movie ticket prices based on age, seat type, show time, membership, and weekend pricing. Demonstrates conditionals, dictionaries, and clean function design.
-
-**[Number Base Converter](https://github.com/harshwardhanfromIndia/number-base-converter)** — A Python command-line tool that converts numbers between the four number systems used in Computer Science — Decimal, Binary, Octal, and Hexadecimal.
-
-**[CS Concepts Cheatsheet](https://harshwardhanfromIndia.github.io/cs-concepts-cheatsheet)** — A dark-themed webpage explaining six core CS concepts with visual diagrams. Built with pure HTML and CSS — no frameworks.
-
-**[WebDev Starter](https://harshwardhanfromindia.github.io.webdev-starter)** — A free, beginner-friendly web development reference — built by a beginner, for beginners.
-
-> More projects coming as I keep learning.
+**[WebDev Starter](https://harshwardhanfromindia.github.io.webdev-starter)**
+A free, beginner-friendly web development reference — built by a beginner, for beginners.
 
 ---
 
-## Goals
+## 🐣 Stuff I Fumbled Through
 
-- Complete Python and HTML on FreeCodeCamp
-- Build 5+ meaningful projects by end of Year 1
-- Make my first open source contribution
-- Land an internship by Year 3
-- Work at Google or Microsoft
+**[Bill Splitter](https://github.com/harshwardhanfromIndia/bill-splitter)**
+Python CLI tool that calculates how much each person owes after splitting a restaurant bill with tip. Demonstrates functions, formatted output, and clean code structure.
 
----
+**[Caesar Cipher](https://github.com/harshwardhanfromIndia/caesar-cipher)**
+A Python implementation of one of history's oldest encryption techniques. Encrypts and decrypts any text using a letter-shift algorithm, preserving spaces and punctuation. Demonstrates string manipulation, translation tables, and input validation.
 
-## Interests beyond code
+**[Movie Ticket Price Calculator](https://github.com/harshwardhanfromIndia/movie-ticket)**
+A Python CLI tool that calculates movie ticket prices based on age, seat type, show time, membership, and weekend pricing. Demonstrates conditionals, dictionaries, and clean function design.
 
-`History & philosophy`   `IKEA early 90s design`   `Art exploration`   `Design systems`
+**[Number Base Converter](https://github.com/harshwardhanfromIndia/number-base-converter)**
+A Python command-line tool that converts numbers between the four number systems used in Computer Science — Decimal, Binary, Octal, and Hexadecimal.
+
+> More projects coming as I keep learning. 🙌
 
 ---
 
 ## Contact
-
-harshwardhanpaswan147@gmail.com
+📧 harshwardhanfromindia@gmail.com
