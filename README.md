@@ -46,6 +46,8 @@ with tip. Demonstrates functions, formatted output, and clean code structure.
 
 **[CS Concepts Cheatsheet](https://harshwardhanfromIndia.github.io/cs-concepts-cheatsheet)** — A dark-themed webpage explaining six core CS concepts with visual diagrams. Built with pure HTML and CSS — no frameworks.
 
+**[WebDev Starter](https://harshwardhanfromindia.github.io.webdev-starter)** — A free, beginner-friendly web development reference — built by a beginner, for beginners.
+
 > More projects coming as I keep learning.
 
 ---
