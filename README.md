@@ -47,6 +47,9 @@ A Python CLI tool that calculates movie ticket prices based on age, seat type, s
 **[Number Base Converter](https://github.com/harshwardhanfromIndia/number-base-converter)**
 A Python command-line tool that converts numbers between the four number systems used in Computer Science — Decimal, Binary, Octal, and Hexadecimal.
 
+**[Single-Page CV](https://harshwardhanfromindia.github.io/single-page-cv-project/)**
+My first frontend project — a single-page CV built with semantic HTML5 and CSS3 as part of my journey learning web development.
+
 > More projects coming as I keep learning. 🙌
 
 ---
