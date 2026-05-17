@@ -28,7 +28,7 @@ Hi, I'm Harshwardhan Kumar Paswan — a student from India who started with the 
 **[CS Concepts Cheatsheet](https://harshwardhanfromIndia.github.io/cs-concepts-cheatsheet)**
 A dark-themed webpage explaining six core CS concepts with visual diagrams. Built with pure HTML and CSS — no frameworks.
 
-**[WebDev Starter](https://harshwardhanfromindia.github.io.webdev-starter)**
+**[WebDev Starter](https://harshwardhanfromindia.github.io/WebDev-Starter/)**
 A free, beginner-friendly web development reference — built by a beginner, for beginners.
 
 ---
