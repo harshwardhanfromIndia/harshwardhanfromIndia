@@ -1,5 +1,12 @@
-# Hi, I'm Harshwardhan 👋
-🇮🇳 India &nbsp;·&nbsp; 🎓 Student &nbsp;·&nbsp; Gritty!
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hi, I'm Harshwardhan
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ---
 
